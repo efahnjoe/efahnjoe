@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am an amateur developer, and I will do my best to ensure the continuity and stability of all packages.
+
+## Stats
 <div align="center">
   <img alt="Efahn Joe's GitHub Stats" width="480" src="https://github-readme-stats.vercel.app/api?username=efahnjoe&include_all_commits=true&theme=radical&hide_border=false"/>
 </div>
