@@ -8,4 +8,4 @@ I am an amateur developer, and I will do my best to ensure the continuity and st
 
 ![GitHub Streak Stats](https://efahnjoe-github-readme-streak-stats.vercel.app?user=efahnjoe&theme=radical)
 
-![Top Languages](https://efahnjoe-github-readme-stats.vercel.app/api/top-langs?username=efahnjoe&locale=en&exclude_repo=cyber-history&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=radical&hide_border=false)
+![Top Languages](https://efahnjoe-github-readme-stats.vercel.app/api/top-langs?username=efahnjoe&locale=en&&hide=markdown&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=radical&hide_border=false)
